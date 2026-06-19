@@ -1,4 +1,4 @@
 Hi, I’m Mina Farid.
-A software developer and an enthusiastic Machine Learning engineer.
+A software developer and an enthusiastic Machine Learning Engineer.
 
-You could contact me at mina.awad.ai@gmail.com
+You can contact me at mina.awad.ai@gmail.com
